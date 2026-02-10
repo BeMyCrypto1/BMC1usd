@@ -53,15 +53,6 @@ without being tradable externally.
 5. **Investor & Ecosystem Integration**
    - Any Polgon Based Public ERC20 tokens contribute to BMC1usd backing
    - Supports trust, credibility, and long-term ecosystem sustainability
-
----
-
-# BMC1usd – Internal Utility Token for BMC1 BeMyCoverage1 LLC
-
-**Parent Company:** BMC1 BeMyCrypto1 LLC  
-**CEO:** Ben Macedo  
-**Contact Email:** bmc1.ceo.macedo@gmail.com  
-
 ---
 
 This README also explains **what it is**, **how it works**, and **what it is not**, 
